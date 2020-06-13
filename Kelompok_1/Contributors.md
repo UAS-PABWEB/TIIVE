@@ -16,7 +16,7 @@ Kelas : TI - IV E <br>
 
 <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61769361?s=460&u=63a3756b2880bc06bafb56f49f64f9427085c7ee&v=4" width="100px;" alt=""/><br /><sub><b>Manggar Sri Sasongko Jati</b></sub><sub><b>A2.1800154</b></sub></td>
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61769361?s=460&u=63a3756b2880bc06bafb56f49f64f9427085c7ee&v=4" width="100px;" alt=""/><br /><sub><b>Manggar Sri Sasongko Jati</b></sub><sub><br>A2.1800154</br></sub></td>
   <br>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
