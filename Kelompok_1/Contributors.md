@@ -28,5 +28,5 @@ Kelas : TI - IV E <br>
   <br>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="" width="100px;" alt=""/><br /><sub><b>Encep Hendri Setiawan</b></sub></a><sub><br>A2.1800149</br></sub></td>
+     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/66855438?s=400&u=03560df073c6d7bc8be92094c4c9137beb0b4331&v=4" width="100px;" alt=""/><br /><sub><b>Encep Hendri Setiawan</b></sub></a><sub><br>A2.1800149</br></sub></td>
 </tr>
